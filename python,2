@@ -1,0 +1,5 @@
+2myvar = "nandu"
+my-var = "nandu"
+my var = "nandu"
+
+#This example will produce an error in the result
