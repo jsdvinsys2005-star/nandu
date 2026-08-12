@@ -1,4 +1,0 @@
-A = "Python"
-B = "is"
-C = "awesome"
-print(A,B,C)
